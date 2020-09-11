@@ -10,10 +10,11 @@
 
 ### Contact
 
-You can find me on 🐦 Twitter [@bushidocodes](https://twitter.com/bushidocodes) and [LinkedIn](https://www.linkedin.com/in/bushidocodes/) - I like to nerd out on operating systems, systems programming, tech history, and programming languages.
+You can find me on [Twitter](https://twitter.com/bushidocodes) and [LinkedIn](https://www.linkedin.com/in/bushidocodes/), where I nerd out on operating systems, systems programming, tech history, and programming languages.
 
-I occasionally write blog posts at [bushido.codes](https://www.bushido.codes/).
+I occasionally write long-form blog posts at [bushido.codes](https://www.bushido.codes/).
 I occasionally publish demos and tutorials on [YouTube](https://www.youtube.com/user/spmcbride1201).
+
 
 ### Bio
 
