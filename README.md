@@ -34,4 +34,4 @@ In the 10+ years since leaving the Army, I've reentered the tech industry. I wor
 
 For the past two years, I've been using my GI Bill to earn my MS in CS from George Washington University. My research interests are mostly in the area of systems programming, but I also have a passing interest in the technologies and standards underpinning the open web.
 
-Thought research does not currently afford me much free time, I'm also a member of [Operation Code](https://operationcode.org/), and as much as possible, I try to advice and mentor transitioning service members about how to learn to code and break into tech. In the past when I've had more free time, I've served as the DC Chapter Lead and organized area meetups.
+I'm also a member of [Operation Code](https://operationcode.org/), and as much as possible, I try to advice and mentor transitioning service members about how to learn to code and break into tech. In the past when I've had more free time, I've served as the DC Chapter Lead and organized area meetups.
