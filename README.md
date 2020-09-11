@@ -1,6 +1,6 @@
 ## Hi, I'm Sean
 
-### I'm a [GWSystems](https://github.com/gwsystems) researcher focused on the application of [WebAssembly](https://webassembly.org/) outside of the browser
+### I'm a [GWSystems](https://github.com/gwsystems) researcher focused on [WebAssembly](https://webassembly.org/) outside of the browser
 
 ### What am I up to?
 
