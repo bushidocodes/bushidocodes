@@ -12,4 +12,5 @@ I'm also a US Army veteran turned software engineer with a bit of a nerdy pedigr
 ### You can find my...:
 - long-form blog posts at [bushido.codes](https://www.bushido.codes/).
 - demos and tutorials on [YouTube](https://www.youtube.com/user/spmcbride1201).
-- short-form thoughts systems programming, tech history, and languages on [Twitter](https://twitter.com/bushidocodes) or [LinkedIn](https://www.linkedin.com/in/bushidocodes/)
+- short-form thoughts systems programming, tech history, and languages on [Twitter](https://twitter.com/bushidocodes) 
+- resume and professional history on [LinkedIn](https://www.linkedin.com/in/bushidocodes/)
