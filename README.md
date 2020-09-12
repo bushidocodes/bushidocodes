@@ -14,6 +14,4 @@
 
 ### Bio
 
-_tldr: I'm a military veteran turned software engineer with a bit of a nerdy pedigree_
-
-Additional personal details [on my bio page](https://github.com/bushidocodes/bushidocodes/blob/master/bio.md)
+I'm a military veteran turned software engineer with a bit of a nerdy pedigree. Read more [on my bio page](https://github.com/bushidocodes/bushidocodes/blob/master/bio.md)
