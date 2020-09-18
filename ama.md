@@ -43,10 +43,10 @@ Feel free to ask me a question by opening an issue on this repo or by [using thi
 > - [👍] Huge potential for promotion. The startup is probably growing quickly and it is very easy to promote purely by virtue of having a few more months of experience
 > - [👍] Opportunity to build something from scratch.
 > - [👍] Opportunity to be a "jack of all trades." Unlike big companies, engineers are not very specialized in this setting.
-> - [👍/👎] Everyone has way more responsibility than they are qualified for. That means tremendous pressure. This can help you learn, but it can also break your soul.
 > - [👍/👎] Compensation is often a low salary with some sort of stock options ("sweat equity"). This is thus like a risky investment. Many engineers have been burned and not recouped the foregone wages, but some reap huge windfalls.
+> - [👍/👎] Everyone has way more responsibility than they are qualified for. That means tremendous pressure. This can help you learn, but it can also break your soul.
 > - [👎] Because of above, processes are not solid. Hiring, onboarding, etc. is "fly by the seat of your pants." Candidates will show up for interviews, and everyone forgot, so you'll end up interviewing a candidate cold and read their resume for the first time in front of them.
 > - [👎] Strategy can shift wildly. Your product and team might be dissolved in three months.
-> - [👎] Poor work/life balance. Depending on what is happening in the company, unpaid overtime for working over nights and weekends happens a lot. You can say no to this, but there can be a strong dynamic between unpaid overtime and advancement. For junior engineers, all the self-education that you need to do to be successful in your career generally 
+> - [👎] Poor work/life balance. Depending on what is happening in the company, unpaid overtime for working over nights and weekends happens a lot. You can say no to this, but there can be a strong dynamic between unpaid overtime and advancement. For junior engineers, all the self-education that you need to do to be successful in your career generally occurs in your personal time.
 >
 > Tech: Usually the new shiny. Projects are new and "greenfield," so you get to use Rust, Golang, React, etc. Probably all of these shiny things are used poorly.
