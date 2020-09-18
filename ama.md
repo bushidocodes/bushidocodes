@@ -11,6 +11,8 @@ Feel free to ask me a question by opening an issue on this repo or by [using thi
 ### Answer
 > Generally, I've had good and bad experiences in all of these settings. I've had engineering wins in each of these setting. At each stage, I've had a "grass is greener" mentality. For example, during my first tech job at IBM. I didn't appreciate the positives, and I focused on the negatives. This is a bad approach to life!
 > 
+> My answers below aren't all directly informed by specific companies. They're more my general feel of that sort of environment, and I wouldn't say my past employers 100% fit these categories.
+> 
 > Taking this all together, I think Big Companies are better places to get your initial training as a junior engineer, startups are better places to get breakout opportunities for the few years that you can handle it, and government is mostly either:
 > - a tour of service on a government tech team (US Digital Service)
 > - an "Iron Rice bowl" where you can earn a solid $140k/yr in the DC area with a union-protected 40 hour work week.
