@@ -4,6 +4,8 @@
 
 I'm also a US Army veteran turned software engineer with a bit of a nerdy pedigree. Read more [on my bio page](https://github.com/bushidocodes/bushidocodes/blob/master/bio.md)
 
+You can also [Ask Me Anything!](https://github.com/bushidocodes/bushidocodes/blob/master/ama.md)
+
 ### I'm currently working on...:
 - Building a WebAssembly-based serverless runtime for resource constrained edge devices
 - Writing my Masters Thesis 😅
