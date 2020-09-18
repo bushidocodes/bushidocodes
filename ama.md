@@ -3,7 +3,7 @@
 Feel free to ask me a question by opening an issue on this repo or by [using this anonymous Google Form.](https://docs.google.com/forms/d/e/1FAIpQLSdkFYtMUpXVuBHu618Zj7F8I-1-IY2ccoyKDT6Jj_6Q8qa5uw/viewform)
 
 
-## Big Companies vs. Government Agenies vs. Startups
+## Big Companies vs. Government Agencies vs. Startups
 
 ### Question
 >"Looking at your LinkedIn you have lots of experience in multiple kinds of organizations. You worked at a big corporation like IBM, a government job at the FAA, and a startup job at Grey Matter. Could you compare the experiences you've had at each of these? Which ones did you enjoy and find fulfilling? Which ones were the most challenging? How did the tech that you used on each job differ?"
