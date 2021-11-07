@@ -7,9 +7,8 @@ I'm also a US Army veteran turned software engineer with a bit of a nerdy pedigr
 You can also [Ask Me Anything!](https://github.com/bushidocodes/bushidocodes/blob/master/ama.md)
 
 ### I'm currently working on...:
-- Building a WebAssembly-based serverless runtime for resource constrained edge devices
-- Writing my Masters Thesis 😅
-- Redesigning and co-teaching labs and in-class exercises for [CSCI 3411 - Operating Systems](https://www2.seas.gwu.edu/~gparmer/classes/2020-08-01-Operating-Systems.html) with [Prof. Gabe Parmer](https://www2.seas.gwu.edu/~gparmer/)
+- SLEdge: a WebAssembly-based serverless runtime for resource constrained edge devices
+- aWsm: an LLVM frontend for WebAssembly
 
 ### You can find my...:
 - long-form blog posts at [bushido.codes](https://www.bushido.codes/).
