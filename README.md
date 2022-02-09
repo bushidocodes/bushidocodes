@@ -9,6 +9,7 @@ You can also [Ask Me Anything!](https://github.com/bushidocodes/bushidocodes/blo
 ### I'm currently working on...:
 - SLEdge: a WebAssembly-based serverless runtime for resource constrained edge devices
 - aWsm: an LLVM frontend for WebAssembly
+- exercism-wasm: Learn the WebAssembly spec by solving Code Katas by hand in the WebAssembly Text format. 
 
 ### You can find my...:
 - long-form blog posts at [bushido.codes](https://www.bushido.codes/).
