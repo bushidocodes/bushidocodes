@@ -52,6 +52,7 @@ Currently using agentic engineering techniques to improve government software at
 
 ### Systems, Computer Arch
 
+* 🗃️ **[power-of-2-allocator](https://github.com/bushidocodes/power-of-2-allocator)** — power-of-2 slab allocator in C with OS fallback for large allocs, per-bucket locking, and full malloc/calloc/realloc API
 * 🧵 **[build-your-own-process-manager](https://github.com/bushidocodes/build-your-own-process-manager)** — systems programming lab around `fork`, `exec`, `wait`, and POSIX process APIs
 * 🔎 **[file-finder](https://github.com/bushidocodes/file-finder)** — C experiments around finding files
 * 🧰 **[modern-c-starter](https://github.com/bushidocodes/modern-c-starter)** — starter experiments for modern C projects
