@@ -4,6 +4,8 @@
 
 Currently using agentic engineering techniques to improve government software at scale.
 
+## Skills
+
 ![C](https://img.shields.io/badge/-C-555555?style=flat-square\&logo=c\&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square\&logo=rust\&logoColor=white)
@@ -17,6 +19,12 @@ Currently using agentic engineering techniques to improve government software at
 ![Claude Code](https://img.shields.io/badge/-Claude_Code-111111?style=flat-square\&logo=anthropic\&logoColor=white)
 ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square\&logo=openai\&logoColor=white)
 
+## Connect
+
+[![Website](https://img.shields.io/badge/-bushido.codes-FF5722?style=flat-square\&logo=hugo\&logoColor=white)](https://www.bushido.codes)
+[![X](https://img.shields.io/badge/-@bushidocodes-000000?style=flat-square\&logo=x\&logoColor=white)](https://x.com/bushidocodes)
+[![LinkedIn](https://img.shields.io/badge/-Sean_McBride-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/bushidocodes)
+
 ## Selected Repos
 
 ### Mainframe, COBOL & Modernization
@@ -28,10 +36,13 @@ Currently using agentic engineering techniques to improve government software at
 * ⌨️ **[keypunch-old](https://github.com/bushidocodes/keypunch-old)** — lightweight editor for learning COBOL, PL/I, and z/Architecture assembly with hot reload
 * 🗄️ **[klein-cobol-faq](https://github.com/bushidocodes/klein-cobol-faq)** — William M. Klein's COBOL FAQ, archived and re-hosted
 * 📖 **[cobol-reference](https://github.com/bushidocodes/cobol-reference)** — COBOL reference notes and examples
+* 🎮 **[grok-cobol-game](https://github.com/bushidocodes/grok-cobol-game)** — COBOL game experiments, because sometimes the path to wisdom runs through batch processing.
 
 ### WebAssembly, Runtimes & Low-Level Experiments
 
 * 🧩 **[wasm](https://github.com/exercism/wasm)** — Exercism WebAssembly Track
+* 🧩 **[aWsm](https://github.com/gwsystems/aWsm)** — LLVM-based WebAssembly ahead-of-time compiler and runtime.
+* 🧩 **[sledge-serverless-framework](https://github.com/gwsystems/sledge-serverless-framework)** — WebAssembly serverless runtime designed for the Edge.
 * 🧪 **[exercism-wasi](https://github.com/bushidocodes/exercism-wasi)** — porting WAT solutions to WASI
 * 🔬 **[wasm2c-examples](https://github.com/bushidocodes/wasm2c-examples)** — experiments with WebAssembly-to-C output
 * 🕸️ **[libc-webassembly-text-format](https://github.com/bushidocodes/libc-webassembly-text-format)** — libc-flavored experiments in WebAssembly Text Format
@@ -39,37 +50,48 @@ Currently using agentic engineering techniques to improve government software at
 * 📊 **[graph500-web](https://github.com/bushidocodes/graph500-web)** — benchmarks comparing compute-heavy JS and WASM code
 * 🧱 **[test-wast-compiler](https://github.com/bushidocodes/test-wast-compiler)** — WAST/WAT compiler experiments
 
-### C, Systems & Algorithms
+### Systems, Computer Arch
 
 * 🧵 **[build-your-own-process-manager](https://github.com/bushidocodes/build-your-own-process-manager)** — systems programming lab around `fork`, `exec`, `wait`, and POSIX process APIs
-* 📦 **[min-heap-priority-queue-c](https://github.com/bushidocodes/min-heap-priority-queue-c)** — generic min-heap priority queue in C
 * 🔎 **[file-finder](https://github.com/bushidocodes/file-finder)** — C experiments around finding files
 * 🧰 **[modern-c-starter](https://github.com/bushidocodes/modern-c-starter)** — starter experiments for modern C projects
-* 🧮 **[divide-conquer-katas](https://github.com/bushidocodes/divide-conquer-katas)** — divide-and-conquer algorithms in C
-* 🌐 **[graph-algorithm-katas](https://github.com/bushidocodes/graph-algorithm-katas)** — graph algorithm katas with modern Java practices
-* 🧠 **[dynamic-programming-katas](https://github.com/bushidocodes/dynamic-programming-katas)** — dynamic programming practice
 * 🧱 **[c-build-experiments](https://github.com/bushidocodes/c-build-experiments)** — Makefile and C build-system experiments
+- 🖥️ **[Minicomputer-Simulator](https://github.com/bushidocodes/Minicomputer-Simulator)** — minicomputer simulation experiments.
+- 🧪 **[ncurses_programming](https://github.com/bushidocodes/ncurses_programming)** — terminal UI experiments with ncurses.
 
 ### Cloud, GovTech & Platform Work
 
 * ☁️ **[awspricer](https://github.com/bushidocodes/awspricer)** — PowerShell script to scrape AWS API pricing for GovCloud services
 * 🏛️ **[faa-iaas-standards](https://github.com/bushidocodes/faa-iaas-standards)** — FAA cloud migration and governance standards archive
-* 📘 **[playbook](https://github.com/bushidocodes/playbook)** — FAA Cloud Services Playbook fork
-* 🕸️ **[service-mesh-dashboard](https://github.com/bushidocodes/service-mesh-dashboard)** — archived Grey Matter Fabric dashboard snapshot
-* 🧬 **[gm-fabric-go](https://github.com/bushidocodes/gm-fabric-go)** — Go SDK fork used in Grey Matter microservices and products
+* 📘 **[faa-cloud-playbook](https://github.com/bushidocodes/playbook)** — FAA Cloud Services Playbook
 
-### Web Apps, Demos & Useful Weirdness
+### Distributed Systems
+* 🕸️ **[service-mesh-dashboard](https://github.com/bushidocodes/service-mesh-dashboard)** — Service Mesh Dashboard archived from prior employer
+* 🕸️ **[chord-grpc](https://github.com/bushidocodes/chord-grpc)** — Distributed Hash Table using Node.js, gRPC, and the Chord Algorithm.
 
-* 🧭 **[oldtown-map](https://github.com/bushidocodes/oldtown-map)** — historic Old Town Alexandria locations on Google Maps with Wikipedia images
-* 🍪 **[ecommerce-site](https://github.com/bushidocodes/ecommerce-site)** — Cookie Monsters: React/Redux + Node e-commerce demo
+### Fullstack Web Deb
+
+* 🧭 **[transcend](https://github.com/bushidocodes/transcend)** — Metaverse, before Mark Zuckerberg tried it
+* 🍊 **[froot-wars](https://github.com/bushidocodes/froot-wars)** — physics game in the style of Angry Birds
 * 📸 **[instagram-clone](https://github.com/bushidocodes/instagram-clone)** — Instagram clone built using Progressive Web App techniques
-* 🍽️ **[restaurant-review-site](https://github.com/bushidocodes/restaurant-review-site)** — Udacity restaurant reviews app project
+* 🎧 **[music-player](https://github.com/bushidocodes/music-player)** — Spotify clone
+* 🍪 **[ecommerce-site](https://github.com/bushidocodes/ecommerce-site)** — Cookie Online Storefront
+* 🍽️ **[restaurant-review-site](https://github.com/bushidocodes/restaurant-review-site)** — Restaurant Review Site
 * 🖖 **[lcars-guide](https://github.com/bushidocodes/lcars-guide)** — Star Trek TNG episode browser with an LCARS-styled UI
 * 🕹️ **[Virtual-Boy-Guessing-Game](https://github.com/bushidocodes/Virtual-Boy-Guessing-Game)** — vector-art web game inspired by the Nintendo Virtual Boy
 * 🍎 **[health-tracker](https://github.com/bushidocodes/health-tracker)** — food logging and calorie totals using USDA FoodData Central
-* 🍊 **[froot-wars](https://github.com/bushidocodes/froot-wars)** — physics game in the style of Angry Birds
+* 🧭 **[oldtown-map](https://github.com/bushidocodes/oldtown-map)** — historic Old Town Alexandria locations on Google Maps with Wikipedia images
+* 🕹️ **[classic-arcade-game](https://github.com/bushidocodes/classic-arcade-game)** — classic arcade game project.
+* 🔬 **[nginx-profiling](https://github.com/bushidocodes/nginx-profiling)** — NGINX profiling experiments.
 
-### Historical Coursework & Learning Archives
+### Semantic / Decentralized Web
+* 🧬 **[nationjs-solid](https://github.com/bushidocodes/nationjs-solid)** — Solid and decentralized web experiments.
+* 🐣 **[hatchling](https://github.com/bushidocodes/hatchling)** — semantic/decentralized web experiments.
+
+### Machine Learning / Deep Learning
+* 🛡️ **[android-malware-classifier](https://github.com/bushidocodes/android-malware-classifier)** — Android malware classification experiments.
+
+### Coursework, Katas, Data Structures and Algorithms
 
 * 🏰 **[WestPoint-CS300-2005](https://github.com/bushidocodes/WestPoint-CS300-2005)** — Ada programs from West Point CS300, Fall 2005
 * 🏰 **[WestPoint-IS450-2007](https://github.com/bushidocodes/WestPoint-IS450-2007)** — LAMP scripts from West Point Distributed Application Engineering, 2007
@@ -77,46 +99,13 @@ Currently using agentic engineering techniques to improve government software at
 * 🚉 **[west-point-train-station](https://github.com/bushidocodes/west-point-train-station)** — Ada work with a very specific sense of place
 * 🧪 **[exercism-solutions](https://github.com/bushidocodes/exercism-solutions)** — C++ Exercism solutions
 * 📝 **[code-katas](https://github.com/bushidocodes/code-katas)** — notes and logs from Exercism and other code platforms
+* 🧮 **[divide-conquer-katas](https://github.com/bushidocodes/divide-conquer-katas)** — divide-and-conquer algorithms in C
+* 🌐 **[graph-algorithm-katas](https://github.com/bushidocodes/graph-algorithm-katas)** — graph algorithm katas with modern Java practices
+* 🧠 **[dynamic-programming-katas](https://github.com/bushidocodes/dynamic-programming-katas)** — dynamic programming practice
+* 🔎 **[bfs-c](https://github.com/bushidocodes/bfs-c)** — breadth-first-search practice in C.
+* 📦 **[min-heap-priority-queue-c](https://github.com/bushidocodes/min-heap-priority-queue-c)** — generic min-heap priority queue in C
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/bushidocodes)
-
-## What I'm Doing
-
-* **Learning in public** — turning old coursework, katas, and experiments into a visible engineering trail
-* **Modernizing the old stuff** — mainframes, COBOL, terminal protocols, batch jobs, and the parts of computing people keep trying to pretend are dead
-* **Re-grounding in fundamentals** — C, C++, assembly, algorithms, runtimes, and operating-system-shaped problems
-* **Using agents aggressively** — Claude Code, Codex, and other tools as collaborators, reviewers, tire-kickers, and occasionally chaos goblins
-* **Writing about engineering** — notes, essays, and experiments at [bushido.codes](https://www.bushido.codes)
-
-## Connect
-
-[![Website](https://img.shields.io/badge/-bushido.codes-FF5722?style=flat-square\&logo=hugo\&logoColor=white)](https://www.bushido.codes)
-[![GitHub](https://img.shields.io/badge/-bushidocodes-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/bushidocodes)
-[![X](https://img.shields.io/badge/-@bushidocodes-000000?style=flat-square\&logo=x\&logoColor=white)](https://x.com/bushidocodes)
-[![LinkedIn](https://img.shields.io/badge/-Sean_McBride-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/bushidocodes)
-
----
-
-### Recognition
-
-* Former Army officer and West Point graduate
-* Former systems software engineer in commercial cybersecurity
-* Federal cloud, platform, and modernization experience
-* Comfortable bridging old and new: COBOL to WebAssembly, mainframes to agents, shell scripts to enterprise platforms
-
-### Philosophy
-
-> Code with honor. Defend the just. Pursue lofty undertakings on the cutting edge.
-
-<details>
-<summary>Random Facts</summary>
-
-* Star Wars fan; *The Empire Strikes Back* remains undefeated
-* Enjoys old computing systems, mainframes, weird terminals, and heroic levels of yak shaving
-* Has written Ada, COBOL, C, C++, Rust, Python, Java, JavaScript, TypeScript, PowerShell, Bash, WebAssembly Text Format, and probably something regrettable at 2 a.m.
-* Believes the future of software engineering looks a lot like air traffic control for coding agents
-* Still thinks fundamentals matter
-
-</details>
+### Exploring Languages
+* 🌕 **[io-lang](https://github.com/bushidocodes/io-lang)** — Io language experiments.
+* 🧙 **[common-lisp](https://github.com/bushidocodes/common-lisp)** — Common Lisp experiments.
+* 🧩 **[prolog](https://github.com/bushidocodes/prolog)** — Prolog experiments.
