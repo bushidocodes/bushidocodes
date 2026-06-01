@@ -56,8 +56,8 @@ Currently using agentic engineering techniques to improve government software at
 * 🔎 **[file-finder](https://github.com/bushidocodes/file-finder)** — C experiments around finding files
 * 🧰 **[modern-c-starter](https://github.com/bushidocodes/modern-c-starter)** — starter experiments for modern C projects
 * 🧱 **[c-build-experiments](https://github.com/bushidocodes/c-build-experiments)** — Makefile and C build-system experiments
-- 🖥️ **[Minicomputer-Simulator](https://github.com/bushidocodes/Minicomputer-Simulator)** — minicomputer simulation experiments.
-- 🧪 **[ncurses_programming](https://github.com/bushidocodes/ncurses_programming)** — terminal UI experiments with ncurses.
+* 🖥️ **[Minicomputer-Simulator](https://github.com/bushidocodes/Minicomputer-Simulator)** — minicomputer simulation experiments.
+* 🧪 **[ncurses_programming](https://github.com/bushidocodes/ncurses_programming)** — terminal UI experiments with ncurses.
 
 ### Cloud, GovTech & Platform Work
 
