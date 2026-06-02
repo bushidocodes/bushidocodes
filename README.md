@@ -72,7 +72,7 @@ Currently using agentic engineering techniques to improve government software at
 * 🕸️ **[service-mesh-dashboard](https://github.com/bushidocodes/service-mesh-dashboard)** — Service Mesh Dashboard archived from prior employer
 * 🕸️ **[chord-grpc](https://github.com/bushidocodes/chord-grpc)** — Distributed Hash Table using Node.js, gRPC, and the Chord Algorithm.
 
-### Fullstack Web Deb
+### Fullstack Web Dev
 
 * 🧭 **[transcend](https://github.com/bushidocodes/transcend)** — Metaverse, before Mark Zuckerberg tried it
 * 🍊 **[froot-wars](https://github.com/bushidocodes/froot-wars)** — physics game in the style of Angry Birds
