@@ -55,6 +55,7 @@ Currently using agentic engineering techniques to improve government software at
 * 🗃️ **[power-of-2-allocator](https://github.com/bushidocodes/power-of-2-allocator)** — power-of-2 slab allocator in C with OS fallback for large allocs, per-bucket locking, and full malloc/calloc/realloc API
 * 🧵 **[build-your-own-process-manager](https://github.com/bushidocodes/build-your-own-process-manager)** — systems programming lab around `fork`, `exec`, `wait`, and POSIX process APIs
 * 🧵 **[user-threads](https://github.com/bushidocodes/user-threads)** — N:1 cooperative green-thread library using Windows Fibers; port of the xv6 `gwthd` kernel threading API to userspace
+* 🔒 **[user-locks](https://github.com/bushidocodes/user-locks)** — three lock types (spin, block, adaptive) ported from the xv6 kernel to Windows userspace; companion to user-threads
 * 🔎 **[file-finder](https://github.com/bushidocodes/file-finder)** — C experiments around finding files
 * 🧰 **[modern-c-starter](https://github.com/bushidocodes/modern-c-starter)** — starter experiments for modern C projects
 * 🧱 **[c-build-experiments](https://github.com/bushidocodes/c-build-experiments)** — Makefile and C build-system experiments
