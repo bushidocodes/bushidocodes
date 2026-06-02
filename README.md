@@ -98,8 +98,7 @@ Currently using agentic engineering techniques to improve government software at
 * 🏰 **[WestPoint-IS450-2007](https://github.com/bushidocodes/WestPoint-IS450-2007)** — LAMP scripts from West Point Distributed Application Engineering, 2007
 * ☕ **[WestPoint-IT105-2003](https://github.com/bushidocodes/WestPoint-IT105-2003)** — Java programs from West Point IT105, Fall 2003
 * 🚉 **[west-point-train-station](https://github.com/bushidocodes/west-point-train-station)** — Ada work with a very specific sense of place
-* 🧪 **[exercism-solutions](https://github.com/bushidocodes/exercism-solutions)** — C++ Exercism solutions
-* 📝 **[code-katas](https://github.com/bushidocodes/code-katas)** — notes and logs from Exercism and other code platforms
+* 🧪 **[exercism-solutions](https://github.com/bushidocodes/exercism-solutions)** — Backup of my Exercism solutions
 * 🧮 **[divide-conquer-katas](https://github.com/bushidocodes/divide-conquer-katas)** — divide-and-conquer algorithms in C
 * 🌐 **[graph-algorithm-katas](https://github.com/bushidocodes/graph-algorithm-katas)** — graph algorithm katas with modern Java practices
 * 🧠 **[dynamic-programming-katas](https://github.com/bushidocodes/dynamic-programming-katas)** — dynamic programming practice
