@@ -97,7 +97,7 @@ Currently using agentic engineering techniques to improve government software at
 ### Coursework, Katas, Data Structures and Algorithms
 
 * 🏰 **[WestPoint-CS300-2005](https://github.com/bushidocodes/WestPoint-CS300-2005)** — Ada programs from West Point CS300, Fall 2005
-* 🏰 **[WestPoint-IS450-2007](https://github.com/bushidocodes/WestPoint-IS450-2007)** — LAMP scripts from West Point Distributed Application Engineering, 2007
+* 🏰 **[quartermaster](https://github.com/bushidocodes/quartermaster)** — Military equipment checkout and reservation system; LAMP coursework from West Point IS450, 2007
 * ☕ **[WestPoint-IT105-2003](https://github.com/bushidocodes/WestPoint-IT105-2003)** — Java programs from West Point IT105, Fall 2003
 * 🚉 **[west-point-train-station](https://github.com/bushidocodes/west-point-train-station)** — Ada work with a very specific sense of place
 * 🧪 **[exercism-solutions](https://github.com/bushidocodes/exercism-solutions)** — Backup of my Exercism solutions
